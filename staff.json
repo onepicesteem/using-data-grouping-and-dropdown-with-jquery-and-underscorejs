@@ -1,0 +1,32 @@
+[
+    {
+        "name":"onepice",
+        "task":"manager",
+        "age":45,
+        "gender":"male"
+    },
+    {
+        "name":"onepice2",
+        "task":"developer",
+        "age":25,
+        "gender":"male"
+    },
+    {
+        "name":"onepice3",
+        "task":"developer",
+        "age":40,
+        "gender":"female"
+    },
+    {
+        "name":"onepice4",
+        "task":"data analyst",
+        "age":19,
+        "gender":"male"
+    },
+    {
+        "name":"onepice5",
+        "task":"designer",
+        "age":37,
+        "gender":"female"
+    }
+]
